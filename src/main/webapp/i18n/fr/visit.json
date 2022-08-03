@@ -1,0 +1,33 @@
+{
+  "monoappApp": {
+    "visit": {
+      "home": {
+        "title": "Visits",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Visit",
+        "createOrEditLabel": "Créer ou éditer un Visit",
+        "notFound": "Aucun Visit trouvé"
+      },
+      "created": "Un nouveau Visit a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Visit avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Visit avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Êtes-vous certain de vouloir supprimer le Visit {{ id }} ?"
+      },
+      "detail": {
+        "title": "Visit"
+      },
+      "id": "ID",
+      "client": "Client",
+      "address": "Address",
+      "carer": "Carer",
+      "accesscode": "Accesscode",
+      "timein": "Timein",
+      "status": "Status",
+      "timespent": "Timespent",
+      "rota": "Rota",
+      "carer": "Carer",
+      "client": "Client"
+    }
+  }
+}

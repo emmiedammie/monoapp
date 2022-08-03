@@ -1,0 +1,28 @@
+{
+  "monoappApp": {
+    "rota": {
+      "home": {
+        "title": "Rotas",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Rota",
+        "createOrEditLabel": "Créer ou éditer un Rota",
+        "notFound": "Aucun Rota trouvé"
+      },
+      "created": "Un nouveau Rota a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Rota avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Rota avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Êtes-vous certain de vouloir supprimer le Rota {{ id }} ?"
+      },
+      "detail": {
+        "title": "Rota"
+      },
+      "id": "ID",
+      "client": "Client",
+      "carer": "Carer",
+      "time": "Time",
+      "duration": "Duration",
+      "visit": "Visit"
+    }
+  }
+}

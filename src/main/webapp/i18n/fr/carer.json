@@ -1,0 +1,27 @@
+{
+  "monoappApp": {
+    "carer": {
+      "home": {
+        "title": "Carers",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Carer",
+        "createOrEditLabel": "Créer ou éditer un Carer",
+        "notFound": "Aucun Carer trouvé"
+      },
+      "created": "Un nouveau Carer a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Carer avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Carer avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Êtes-vous certain de vouloir supprimer le Carer {{ id }} ?"
+      },
+      "detail": {
+        "title": "Carer"
+      },
+      "id": "ID",
+      "name": "Name",
+      "phone": "Phone",
+      "daysavailable": "Daysavailable",
+      "visit": "Visit"
+    }
+  }
+}
